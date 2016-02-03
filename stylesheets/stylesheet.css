@@ -90,17 +90,16 @@ footer {
   margin: 25px auto;
   padding: 0;
   display: inline-block;
-  transition: 0.5 linear;
 }
 
 .imageGallery li img{ 
-  transition: 0.25 linear;
+  transition: 0.25s linear;
   border-radius: 100px;
   overflow: hidden;
 }
 
 .imageGallery li img:hover{
-  transition: 0.25 linear;
+  transition: 0.25s linear;
   box-shadow: 0 5px 25px 10px rgba(0,0,0,09);
 }
 
